@@ -1,3 +1,7 @@
+// ImageJ macro to convert images from .tif to .h5
+// Saves a copy of the .tif images in a new subfolder
+// Generates .h5 images with an added particle in the top left corner and saves them in the sample folder
+
 // Define input and output directories
 main_dir = getDirectory("input");
 internal_standard = main_dir + "Internal_Standard.tif";
