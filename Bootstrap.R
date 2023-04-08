@@ -1,3 +1,5 @@
+## Bootstrap-script to estimate (analytical) uncertainty involved in microplastic count
+
 # Set the library path
 .libPaths("M:/My Documents/R/win-library/3.6")
 
