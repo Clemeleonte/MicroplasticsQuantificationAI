@@ -1,3 +1,7 @@
+# Script to use the Ilastik headless mode for pizel segmentation of .h5 images
+# Saves a copy of the .h5 images in a new subfolder
+# Saves the binarized mask in the sample folder
+
 import os
 import subprocess
 # Get the current working directory and print it to the console
