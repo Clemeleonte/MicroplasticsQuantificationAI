@@ -15,9 +15,9 @@ To run this script, data should be organised in a main input directory containin
 Main directory/
 ├─ Sample_01/
 ├─ Sample_02/
-│  ├─ Sample_02_01.tif
-│  ├─ Sample_02_[...].tif
-│  ├─ Sample_02_21.tif
+│    ├─ Sample_02_01.tif
+│    ├─ Sample_02_[...].tif
+│    ├─ Sample_02_21.tif
 ├─ Sample_N/
 ├─ Internal_Standard.tif
 ```
@@ -75,17 +75,17 @@ The script creates a new folder inside the sample folder. The script moves the .
 Main directory/
 ├─ Sample_01/
 ├─ Sample_02/
-│   ├─ raw/
-│       ├─ Sample_02_01.tif
-│       ├─ Sample_02_[...].tif
-│       ├─ Sample_02_21.tif
-│   ├─ h5_files/
-│       ├─ Sample_02_01.h5
-│       ├─ Sample_02_[...].h5
-│       ├─ Sample_02_21.h5
-│   ├─ Sample_02_01_Simple Segmentation.tif
-│   ├─ Sample_02_[...]_Simple Segmentation.tif
-│   ├─ Sample_02_21.Simple Segmentation.tif
+│    ├─ raw/
+│        ├─ Sample_02_01.tif
+│        ├─ Sample_02_[...].tif
+│        ├─ Sample_02_21.tif
+│    ├─ h5_files/
+│        ├─ Sample_02_01.h5
+│        ├─ Sample_02_[...].h5
+│        ├─ Sample_02_21.h5
+│    ├─ Sample_02_01_Simple Segmentation.tif
+│    ├─ Sample_02_[...]_Simple Segmentation.tif
+│    ├─ Sample_02_21.Simple Segmentation.tif
 ├─ Sample_N/
 ├─ Internal_Standard.tif
 ├─ IlastikBinarization.py
@@ -121,21 +121,21 @@ Main directory/
 ├─ Sample_01/
 ├─ Sample_02/
 │    ├─ raw/
-│       ├─ Sample_02_01.tif
-│       ├─ Sample_02_[...].tif
-│       ├─ Sample_02_21.tif
+│        ├─ Sample_02_01.tif
+│        ├─ Sample_02_[...].tif
+│        ├─ Sample_02_21.tif
 │    ├─ h5_files/
-│       ├─ Sample_02_01.h5
-│       ├─ Sample_02_[...].h5
-│       ├─ Sample_02_21.h5
+│        ├─ Sample_02_01.h5
+│        ├─ Sample_02_[...].h5
+│        ├─ Sample_02_21.h5
 │    ├─ Processed_tif/
-│       ├─ Sample_02_01_Simple Segmentation.tif
-│       ├─ Sample_02_[...]_Simple Segmentation.tif
-│       ├─ Sample_02_21_Simple Segmentation.tif
+│        ├─ Sample_02_01_Simple Segmentation.tif
+│        ├─ Sample_02_[...]_Simple Segmentation.tif
+│        ├─ Sample_02_21_Simple Segmentation.tif
 │    ├─ Outlines/
-│       ├─ Sample_02_01_Simple Segmentation_outlines.tif
-│       ├─ Sample_02_[...]_Simple Segmentation_outlines.tif
-│       ├─ Sample_02_21_Simple Segmentation_outlines.tif
+│        ├─ Sample_02_01_Simple Segmentation_outlines.tif
+│        ├─ Sample_02_[...]_Simple Segmentation_outlines.tif
+│        ├─ Sample_02_21_Simple Segmentation_outlines.tif
 │    ├─ Sample_02_01_Simple Segmentation_Results.csv
 │    ├─ Sample_02_[...]_Simple Segmentation_Results.csv
 │    ├─ Sample_02_21.Simple Segmentation_Results.csv
@@ -172,21 +172,21 @@ Main directory/
 ├─ Sample_01/
 ├─ Sample_02/
 │    ├─ raw/
-│       ├─ Sample_02_01.tif
-│       ├─ Sample_02_[...].tif
-│       ├─ Sample_02_21.tif
+│        ├─ Sample_02_01.tif
+│        ├─ Sample_02_[...].tif
+│        ├─ Sample_02_21.tif
 │    ├─ h5_files/
-│       ├─ Sample_02_01.h5
-│       ├─ Sample_02_[...].h5
-│       ├─ Sample_02_21.h5
+│        ├─ Sample_02_01.h5
+│        ├─ Sample_02_[...].h5
+│        ├─ Sample_02_21.h5
 │    ├─ Processed_tif/
-│       ├─ Sample_02_01_Simple Segmentation.tif
-│       ├─ Sample_02_[...]_Simple Segmentation.tif
-│       ├─ Sample_02_21_Simple Segmentation.tif
+│        ├─ Sample_02_01_Simple Segmentation.tif
+│        ├─ Sample_02_[...]_Simple Segmentation.tif
+│        ├─ Sample_02_21_Simple Segmentation.tif
 │    ├─ Outlines/
-│       ├─ Sample_02_01_Simple Segmentation_outlines.tif
-│       ├─ Sample_02_[...]_Simple Segmentation_outlines.tif
-│       ├─ Sample_02_21_Simple Segmentation_outlines.tif
+│        ├─ Sample_02_01_Simple Segmentation_outlines.tif
+│        ├─ Sample_02_[...]_Simple Segmentation_outlines.tif
+│        ├─ Sample_02_21_Simple Segmentation_outlines.tif
 │    ├─ Sample_02_01_Simple Segmentation_Results.csv
 │    ├─ Sample_02_[...]_Simple Segmentation_Results.csv
 │    ├─ Sample_02_21.Simple Segmentation_Results.csv
