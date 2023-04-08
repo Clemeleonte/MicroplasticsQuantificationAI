@@ -1,3 +1,7 @@
+// ImageJ macro to count and size microplastics
+// Saves a copy of the binarized mask in a new subfolder
+// Saves in the sample folder a .csv result table for each image 
+
 // Define input and output directories
 inputDir = getDirectory("Choose input directory");
 outputDir = getDirectory("Choose output directory");
