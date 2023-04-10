@@ -2,6 +2,8 @@
 
 The scripts uploaded in this repositories were developed for the automated processing of fluorescence microscopy images of Nile Red stained microplastics.
 
+Read more about our method for the analysis of microplastics in bottled water at https://doi.org/10.26434/chemrxiv-2022-cr5ws-v2
+
 ## ExportH5.java
 The macro was developed and tested on ImageJ 1.52
 
